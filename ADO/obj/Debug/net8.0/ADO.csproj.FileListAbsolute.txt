@@ -17,3 +17,4 @@ C:\Users\joselucas\EntityFramework\ADO\obj\Debug\net8.0\refint\ADO.dll
 C:\Users\joselucas\EntityFramework\ADO\obj\Debug\net8.0\ADO.pdb
 C:\Users\joselucas\EntityFramework\ADO\obj\Debug\net8.0\ADO.genruntimeconfig.cache
 C:\Users\joselucas\EntityFramework\ADO\obj\Debug\net8.0\ref\ADO.dll
+C:\Users\joselucas\EntityFramework\ADO\obj\Debug\net8.0\ADO.sourcelink.json
