@@ -190,11 +190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joselucas\\EntityFramework\\ADO\\ADO.csproj",
+      "projectUniqueName": "C:\\Users\\joselucas\\EntityFramework\\efCozinha\\ADO\\ADO.csproj",
       "projectName": "ADO",
-      "projectPath": "C:\\Users\\joselucas\\EntityFramework\\ADO\\ADO.csproj",
+      "projectPath": "C:\\Users\\joselucas\\EntityFramework\\efCozinha\\ADO\\ADO.csproj",
       "packagesPath": "C:\\Users\\joselucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joselucas\\EntityFramework\\ADO\\obj\\",
+      "outputPath": "C:\\Users\\joselucas\\EntityFramework\\efCozinha\\ADO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joselucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

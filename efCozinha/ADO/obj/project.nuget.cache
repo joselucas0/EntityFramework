@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0uZUNsuJB0s=",
+  "dgSpecHash": "l3WNBXyfEq8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joselucas\\EntityFramework\\ADO\\ADO.csproj",
+  "projectFilePath": "C:\\Users\\joselucas\\EntityFramework\\efCozinha\\ADO\\ADO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joselucas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\joselucas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
