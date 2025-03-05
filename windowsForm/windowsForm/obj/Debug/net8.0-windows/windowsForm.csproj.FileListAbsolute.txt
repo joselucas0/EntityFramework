@@ -1,0 +1,15 @@
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\bin\Debug\net8.0-windows\windowsForm.exe
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\bin\Debug\net8.0-windows\windowsForm.deps.json
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\bin\Debug\net8.0-windows\windowsForm.runtimeconfig.json
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\bin\Debug\net8.0-windows\windowsForm.dll
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\bin\Debug\net8.0-windows\windowsForm.pdb
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.AssemblyInfoInputs.cache
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.AssemblyInfo.cs
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.csproj.CoreCompileInputs.cache
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.sourcelink.json
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.dll
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\refint\windowsForm.dll
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.pdb
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\windowsForm.genruntimeconfig.cache
+C:\Users\joselucas\EntityFramework\windowsForm\windowsForm\obj\Debug\net8.0-windows\ref\windowsForm.dll

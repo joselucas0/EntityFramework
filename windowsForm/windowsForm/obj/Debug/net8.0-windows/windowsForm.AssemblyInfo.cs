@@ -10,13 +10,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ADO")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("windowsForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25b90772a1aabf19719869497125b769b9ef2072")]
-[assembly: System.Reflection.AssemblyProductAttribute("ADO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ADO")]
+[assembly: System.Reflection.AssemblyProductAttribute("windowsForm")]
+[assembly: System.Reflection.AssemblyTitleAttribute("windowsForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
