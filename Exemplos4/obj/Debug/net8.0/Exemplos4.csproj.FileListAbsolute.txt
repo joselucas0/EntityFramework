@@ -1,0 +1,6 @@
+C:\Users\joselucas\EntityFramework\Exemplos4\obj\Debug\net8.0\Exemplos4.csproj.AssemblyReference.cache
+C:\Users\joselucas\EntityFramework\Exemplos4\obj\Debug\net8.0\Exemplos4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joselucas\EntityFramework\Exemplos4\obj\Debug\net8.0\Exemplos4.AssemblyInfoInputs.cache
+C:\Users\joselucas\EntityFramework\Exemplos4\obj\Debug\net8.0\Exemplos4.AssemblyInfo.cs
+C:\Users\joselucas\EntityFramework\Exemplos4\obj\Debug\net8.0\Exemplos4.csproj.CoreCompileInputs.cache
+C:\Users\joselucas\EntityFramework\Exemplos4\obj\Debug\net8.0\Exemplos4.sourcelink.json
