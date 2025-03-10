@@ -1,40 +1,26 @@
 ﻿﻿using System;
+using System.Windows.Forms;
 using System.Collections.Generic;
 using System.Data;
 using System.Diagnostics;
-using Conn_Banco.Exercicio.Crud;
+using Exemplos4.Crud;
+using Exemplos4.WinFormsApp;
 
-
-public class Program
+namespace Exemplos4
 {
-    public static void Main(string[] args)
+    internal static class Program
     {
-        var crud = new Crud();
-        
-        crud.InserirUsuario(4, "Ana Souza", "senha321", 1004, "Gestora de TI");
-        crud.InserirUsuario(5, "Ricardo Lima", "senha654", 1005, "Analista de Sistemas");
-        crud.InserirUsuario(6, "Fernanda Pereira", "senha987", 1006, "Gerente de Projetos");
+        [STAThread] // Necessário para aplicações Windows Forms
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
 
-    
-        crud.InserirMaquina(4, "Servidor", 4000, 2000, 64, 1, 4); 
-        crud.InserirMaquina(5, "Laptop", 3000, 1000, 16, 1, 5);  
-        crud.InserirMaquina(6, "Estação de Trabalho", 3600, 1500, 32, 1, 6); 
+            // Inicializa o CRUD para interagir com os dados
+            CrudService crudService = new CrudService();
 
-     
-        crud.InserirSoftware(4, "Windows Server 2022", 100, 8, 4); 
-        crud.InserirSoftware(5, "Ubuntu Server", 50, 4, 5); 
-        crud.InserirSoftware(6, "Windows 10", 30, 4, 6); 
-
-        
-
-       
-        crud.ListarUsuarios();
-
-      
-        crud.ListarMaquinas();
-   
-        crud.ListarSoftwares();
-
-        Console.WriteLine("Operações concluídas.");
+            // Abre o formulário principal e passa a instância do CRUD
+            Application.Run(new Form1(crudService));
+        }
     }
 }
